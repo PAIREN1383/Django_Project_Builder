@@ -5,7 +5,7 @@ This tool helps to make the Django project very easy and fast.
 To make it easier for VS Code users to build a Django project.
 
 ## How to use:
-1. Run terminal in the project folder. ("CMD" not "PowerShell")
+1. Run the terminal in the project folder. ("CMD" not "PowerShell")
 2. Enter "dpb.bat".
 3. Enter "dpb2.bat".
 
